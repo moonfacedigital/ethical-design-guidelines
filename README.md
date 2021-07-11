@@ -16,6 +16,7 @@ Contributions via PRs and issues are encouraged.
     - [Case Study: TikTok](#case-study-tiktok)
 6. [Human Harrassment](#human-harrassment)
     - [Case Study: Itchpet](#case-study-itchpet)
+6. [Ethical design badge](#ethical-design-badge)
 6. [Contributing](#contributing)
 
 ## Cookies
