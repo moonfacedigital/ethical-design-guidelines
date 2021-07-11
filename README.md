@@ -49,7 +49,7 @@ Contributions via PRs and issues are encouraged.
 
 ## Addiction
 - Avoid displaying repetitive content that is short and captivating
-- Use an indicator to inform users when they are caught up to prevent stop zombie scrolling
+- Use an indicator to inform the human when they are caught up to prevent stop zombie scrolling
 - Do not autoplay videos as this does not allow the human to make a concious decision
 - Do not use The Infinite Scroll
 
@@ -63,7 +63,7 @@ TikTok has a lot of information. Having access to relevant information can impro
 
 Rewards are treated in the mid brain with a dopamine response just as an intake of foods high in sugar, fat and salt is. This is both true for the consumption, but also for the anticipation of such a reward. Interestingly, TikTok’s information is presented in a 15 second form.
 
-This means that although the users do get well-recommended stimulating information, It is unlikely that meaningful content can be adequately displayed in such a short amount of time. It is simply difficult to convey adequately the view that you represent so quickly with such limited engagement.
+This means that although the human does get well-recommended stimulating information, It is unlikely that meaningful content can be adequately displayed in such a short amount of time. It is simply difficult to convey adequately the view that you represent so quickly with such limited engagement.
 
 This makes the platform more susceptible to the kinds of expected stimulus seen in addiction.
 
