@@ -82,6 +82,20 @@ A display of Itchpet's intrusive popup:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/45979758/125140790-37ae6d00-e10b-11eb-86b0-95151ba084a2.gif)
 
+## Ethical design badge
+
+Sites that conform to all of the above are entitled to use this badge in their site documentation.
+
+<a href="https://moonface.ga/ethical-design?ref=github">
+<img src="https://user-images.githubusercontent.com/45979758/125195603-42254f80-e24e-11eb-80fe-96580c010477.png" target="_blank" alt="ethical design" width="" height="35px">
+</a>
+
+```
+<a href="https://moonface.ga/ethical-design?ref=github">
+<img src="https://user-images.githubusercontent.com/45979758/125195603-42254f80-e24e-11eb-80fe-96580c010477.png" target="_blank" alt="ethical design" width="" height="35px">
+</a>
+```
+
 ## Contributing
 
 If you would like to challenge any of these practices then please open an issue.
