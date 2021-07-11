@@ -100,7 +100,7 @@ Sites that conform to all of the above are entitled to use this badge in their s
 
 If you would like to challenge any of these practices then please open an issue.
 
-If you would like to add a practice to our guidelines then make a PR request.
+If you would like to add to our guidelines then please make a PR request.
 
 <a href="https://moonface.ga?ref=github">
 <img src="https://user-images.githubusercontent.com/45979758/123560051-ef509000-d797-11eb-88dd-842b365a1f5f.png" target="_blank" alt="moonface" width="" height="35px">
