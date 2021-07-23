@@ -88,7 +88,7 @@ A display of Itchpet's intrusive popup:
 Sites that conform to all of the above are entitled to use this badge in their site documentation.
 
 <a href="https://moonface.ga/ethical-design?ref=github">
-<img src="https://user-images.githubusercontent.com/45979758/125195603-42254f80-e24e-11eb-80fe-96580c010477.png" target="_blank" alt="ethical design" width="" height="35px">
+<img src="https://user-images.githubusercontent.com/45979758/125195603-42254f80-e24e-11eb-80fe-96580c010477.png" target="_blank" alt="ethical design" width="" height="25px">
 </a>
 
 ```
@@ -104,6 +104,6 @@ If you would like to challenge any of these practices then please open an issue.
 If you would like to add to our guidelines then please make a PR request.
 
 <a href="https://moonface.ga?ref=github">
-<img src="https://user-images.githubusercontent.com/45979758/123560051-ef509000-d797-11eb-88dd-842b365a1f5f.png" target="_blank" alt="moonface" width="" height="35px">
+<img src="https://user-images.githubusercontent.com/45979758/123560051-ef509000-d797-11eb-88dd-842b365a1f5f.png" target="_blank" alt="moonface" width="" height="25px">
 </a>
 
